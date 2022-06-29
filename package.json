@@ -1,0 +1,23 @@
+{
+  "name": "my-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d my-project"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tosin456/Success.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tosin456/Success/issues"
+  },
+  "homepage": "https://github.com/tosin456/Success#readme",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
