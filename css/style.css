@@ -390,6 +390,7 @@ img{
         position: absolute;
         right: 4%;
         top: 2%;
+        display: flex;
     }
 
     .site-nav{
@@ -417,14 +418,13 @@ img{
         /* margin-top: 4px; */
         /* border-bottom-right-radius: 30%; */
         /* max-height: max-content; */
-        display: block;
-        padding: 4rem;
+       max-height: max-content;
        
         
     }
 
-    .nav-wrap li{
-        margin: 40px ;
+    .nav-wrap li a{
+        border: 1px solid #fff;
     }
 
     
